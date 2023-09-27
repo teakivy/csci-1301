@@ -1,6 +1,6 @@
 package homework;
-//import brandon.math.Random;
-//import brandon.math.Math;
+
+import brandon.math.Math;
 
 /**
  * Class: CSCI 1301 Programming Principles I C, Fall 2023
