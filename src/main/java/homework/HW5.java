@@ -36,8 +36,8 @@ public class HW5 {
     public static double mean(int boundary, int n) {
         double sum = 0;
 
-        for (int i = 0; i < n; i++) {
-            sum += Math.random() * boundary;
+        for (int i = 0; i < n ; i++) {
+            sum += (int) (Math.random() * (boundary + 1));
         }
 
         return sum / n;
@@ -51,13 +51,21 @@ public class HW5 {
      * @return The standard deviation of the random numbers
      */
     public static double deviation(int boundary, int n) {
-        double mean = mean(boundary, n);
+        // Random number, sum and it's squared form
+        int number;
         double sum = 0;
+        double squareSum = 0;
 
+        // Create numbers, find its sum, and its square sum
         for (int i = 0; i < n; i++) {
-            sum += Math.pow(Math.random() * boundary - mean, 2);
+            number = (int) (Math.random() * (boundary + 1));
+
+            sum += number;
+
+            squareSum += Math.pow(number, 2);
         }
 
-        return Math.sqrt(sum / (n - 1));
+        // Standard deviation formula
+        return Math.sqrt((squareSum - ((sum * sum) / n)) / (n - 1));
     }
 }
