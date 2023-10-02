@@ -10,7 +10,21 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
 1. TODO
 
 ### Homework
-1. TODO
+1. Week 2 - [Homework 1](src/main/java/homework/HW1.java)<br />
+   Computing Base & Volume of a Cylinder<br />
+   [HW1.java](src/main/java/homework/HW1.java)
+2. Week 3 - [Homework 2](src/main/java/homework/HW2.java)<br />
+   Tennis Practice<br />
+   [HW2.java](src/main/java/homework/HW2.java)
+3. Week 4 - [Homework 3](src/main/java/homework/HW3.java)<br />
+   Taxable Income<br />
+   [HW3.java](src/main/java/homework/HW3.java)
+3. Week 5 - [Homework 4](src/main/java/homework/HW4.java)<br />
+   Factorial Practice<br />
+   [HW4.java](src/main/java/homework/HW4.java)
+3. Week 6 - [Homework 5](src/main/java/homework/HW5.java)<br />
+   Mean & Standard Deviation<br />
+   [HW5.java](src/main/java/homework/HW5.java)
 
 ## Resources
 - [Course Text Website](https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/)
