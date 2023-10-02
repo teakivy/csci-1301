@@ -7,7 +7,21 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
 
 ## Assignments
 ### Lab Assignments
-1. TODO
+1. Week 2 - [Lab 1](src/main/java/homework/Lab1.java)<br />
+   Feet to Meters Conversion<br />
+   [Lab1.java](src/main/java/homework/Lab1.java)
+2. Week 3 - [Lab 2](src/main/java/homework/Lab2.java)<br />
+   Sorting Integers<br />
+   [Lab2.java](src/main/java/homework/Lab2.java)
+3. Week 4 - [Lab 3](src/main/java/homework/Lab3.java)<br />
+   Modulo 5 or 6?<br />
+   [Lab3.java](src/main/java/homework/Lab3.java)
+4. Week 5 - [Lab 4](src/main/java/homework/Lab4.java)<br />
+   Number Pyramid<br />
+   [Lab4.java](src/main/java/homework/Lab4.java)
+5. Week 6 - [Lab 5](src/main/java/homework/Lab5.java)<br />
+   Numbers to The Max<br />
+   [Lab5.java](src/main/java/homework/Lab5.java)
 
 ### Homework
 1. Week 2 - [Homework 1](src/main/java/homework/HW1.java)<br />
@@ -19,10 +33,10 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
 3. Week 4 - [Homework 3](src/main/java/homework/HW3.java)<br />
    Taxable Income<br />
    [HW3.java](src/main/java/homework/HW3.java)
-3. Week 5 - [Homework 4](src/main/java/homework/HW4.java)<br />
+4. Week 5 - [Homework 4](src/main/java/homework/HW4.java)<br />
    Factorial Practice<br />
    [HW4.java](src/main/java/homework/HW4.java)
-3. Week 6 - [Homework 5](src/main/java/homework/HW5.java)<br />
+5. Week 6 - [Homework 5](src/main/java/homework/HW5.java)<br />
    Mean & Standard Deviation<br />
    [HW5.java](src/main/java/homework/HW5.java)
 
