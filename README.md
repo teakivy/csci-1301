@@ -50,8 +50,8 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
 If you find any improvements or alternative solutions for the completed assignments, feel free to open an issue or create a pull request. Contributions are welcome!
 
 ## License
-This repository is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use and modify the content as needed.
+This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the content as needed.
 
 ## Disclaimer
 
-While this repository is licensed under the [MIT License](https://opensource.org/license/mit/), it is crucial to note that submitting this code without modification is considered dishonest and may lead to academic penalties. This repository is intended solely for reference purposes. I explicitly disclaim any responsibility for any misuse or dishonest use of the code contained herein.
+While this repository is licensed under the [MIT License](LICENSE), it is crucial to note that submitting this code without modification is considered dishonest and may lead to academic penalties. This repository is intended solely for reference purposes. I explicitly disclaim any responsibility for any misuse or dishonest use of the code contained herein.
