@@ -1,7 +1,7 @@
 # CSCI-1301 Programming Principles I - Fall 2023
 [![Georgia Southern University - CSCI-1301](https://img.shields.io/badge/Georgia_Southern_University-CSCI--1301-b3935d?style=for-the-badge)](https://georgiasouthern.edu)
 ## Course Repository
-This repository contains all the lab assignments and homework for the CSCI-1301 Programming Principles I class at Georgia Southern University during the Fall 2023 semester. The course is instructed by Professor Md. Shakil Hossain.
+This repository contains all the lab assignments, homework, and tests for the CSCI-1301 Programming Principles I class at Georgia Southern University during the Fall 2023 semester. The course is instructed by Professor Md. Shakil Hossain.
 
 ## Introduction
 Welcome to the repository for CSCI-1301 Programming Principles I! This course focuses on developing problem-solving skills and proficiency in the Java programming language. This README serves as a guide to navigate through the assignments and labs.
