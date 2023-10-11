@@ -14,7 +14,7 @@ package homework;
 public class Cylinder {
     private double radius;
     private double length;
-    static int numberOfObjects = 0;
+    private static int numberOfObjects = 0;
 
     /**
      * Default constructor
