@@ -24,9 +24,9 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
    [Lab5.java](Week7/src/main/java/homework/Lab5.java)
 6. Week 9 - [Lab 6](Week9/src/main/java/homework/RectangleTest.java)<br />
    Rectangles & UML<br />
-   [Rectangle.java](Week9/src/main/java/homework/Rectangle.java)
-   [Rectangle UML.pdf](Week9/src/main/java/homework/Rectangle UML.pdf)
-   [RectangleTest.java](Week9/src/main/java/homework/RectangleTest.java)
+   [RectangleTest.java](Week9/src/main/java/homework/RectangleTest.java)<br />
+   [Rectangle.java](Week9/src/main/java/homework/Rectangle.java)<br />
+   [Rectangle UML.pdf](Week9/src/main/java/homework/Rectangle UML.pdf)<br />
 
 ### Homework
 1. Week 2 - [Homework 1](Week2/src/main/java/homework/HW1.java)<br />
@@ -44,6 +44,11 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
 5. Week 7 - [Homework 5](Week7/src/main/java/homework/HW5.java)<br />
    Mean & Standard Deviation<br />
    [HW5.java](Week7/src/main/java/homework/HW5.java)
+6. Week 9 - [Homework 6](Week9/src/main/java/homework/CylinderTest.java)<br />
+   Cylinders & UML<br />
+   [CylinderTest.java](Week9/src/main/java/homework/CylinderTest.java)<br />
+   [Cylinder.java](Week9/src/main/java/homework/Cylinder.java)<br />
+   [Cylinder UML.pdf](Week9/src/main/java/homework/Cylinder UML.pdf)<br />
 
 ## Resources
 - [Course Text Website](https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/)
