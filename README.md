@@ -22,6 +22,11 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
 5. Week 7 - [Lab 5](Week7/src/main/java/homework/Lab5.java)<br />
    Numbers to The Max<br />
    [Lab5.java](Week7/src/main/java/homework/Lab5.java)
+6. Week 9 - [Lab 6](Week9/src/main/java/homework/RectangleTest.java)<br />
+   Rectangles & UML<br />
+   [Rectangle.java](Week9/src/main/java/homework/Rectangle.java)
+   [Rectangle UML.pdf](Week9/src/main/java/homework/Rectangle UML.pdf)
+   [RectangleTest.java](Week9/src/main/java/homework/RectangleTest.java)
 
 ### Homework
 1. Week 2 - [Homework 1](Week2/src/main/java/homework/HW1.java)<br />
