@@ -50,6 +50,14 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
    [Cylinder.java](Week9/src/main/java/homework/Cylinder.java)<br />
    [Cylinder UML.pdf](Week9/src/main/java/homework/Cylinder UML.pdf)<br />
 
+### Tests
+1. Week 5 - [Test 1](Week5/src/main/java/test/Test1.java)<br />
+   Fruit Store<br />
+   [Test1.java](Week5/src/main/java/test/Test1.java)<br />
+2. Week 8 - [Test 2](Week8/src/main/java/test/Test2.java)<br />
+   Sum of Cubes<br />
+   [Test2.java](Week8/src/main/java/test/Test2.java)
+
 ## Resources
 - [Course Text Website](https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/)
 - [IntelliJ Idea](https://www.jetbrains.com/idea/) (My preferred Java IDE)
