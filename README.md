@@ -27,7 +27,12 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
    Rectangles & UML<br />
    [RectangleTest.java](Week9/src/main/java/homework/RectangleTest.java)<br />
    [Rectangle.java](Week9/src/main/java/homework/Rectangle.java)<br />
-   [Rectangle UML.pdf](Week9/src/main/java/homework/Rectangle_UML.pdf)<br />
+   [Rectangle_UML.pdf](Week9/src/main/java/homework/Rectangle_UML.pdf)<br />
+7. Week 10 - [Lab 7](Week10/src/main/java/homework/TestCircle.java)<br />
+   Palindrome<br />
+   [TestCircle.java](Week10/src/main/java/homework/TestCircle.java)
+   [Circle.java](Week10/src/main/java/homework/Circle.java)
+   [Circle_UML.pdf](Week10/src/main/java/homework/Circle_UML.pdf)
 
 ### Homework
 1. Week 2 - [Homework 1](Week2/src/main/java/homework/HW1.java)<br />
