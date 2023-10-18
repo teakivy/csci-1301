@@ -29,10 +29,10 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
    [Rectangle.java](Week9/src/main/java/homework/Rectangle.java)<br />
    [Rectangle_UML.pdf](Week9/src/main/java/homework/Rectangle_UML.pdf)<br />
 7. Week 10 - [Lab 7](Week10/src/main/java/homework/TestCircle.java)<br />
-   Palindrome<br />
-   [TestCircle.java](Week10/src/main/java/homework/TestCircle.java)
-   [Circle.java](Week10/src/main/java/homework/Circle.java)
-   [Circle_UML.pdf](Week10/src/main/java/homework/Circle_UML.pdf)
+   Circle Distance & UML<br />
+   [TestCircle.java](Week10/src/main/java/homework/TestCircle.java)<br />
+   [Circle.java](Week10/src/main/java/homework/Circle.java)<br />
+   [Circle_UML.pdf](Week10/src/main/java/homework/Circle_UML.pdf)<br />
 
 ### Homework
 1. Week 2 - [Homework 1](Week2/src/main/java/homework/HW1.java)<br />
@@ -55,6 +55,10 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
    [CylinderTest.java](Week9/src/main/java/homework/CylinderTest.java)<br />
    [Cylinder.java](Week9/src/main/java/homework/Cylinder.java)<br />
    [Cylinder UML.pdf](Week9/src/main/java/homework/Cylinder_UML.pdf)<br />
+7. Week 10 - [Homework 7](Week10/src/main/java/homework/TestOrder.java)<br />
+   Order Class<br />
+   [TestOrder.java](Week10/src/main/java/homework/TestOrder.java)<br />
+   [Order.java](Week10/src/main/java/homework/Order.java)<br />
 
 ### Tests
 1. Week 5 - [Test 1](Week5/src/main/java/test/Test1.java)<br />
