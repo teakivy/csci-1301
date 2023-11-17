@@ -33,6 +33,17 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
    [TestCircle.java](Week10/src/main/java/homework/TestCircle.java)<br />
    [Circle.java](Week10/src/main/java/homework/Circle.java)<br />
    [Circle_UML.pdf](Week10/src/main/java/homework/Circle_UML.pdf)<br />
+8. Week 11 - [Lab 8](Week11/src/main/java/homework/Lab8.java)<br />
+   Scores & Averages<br />
+   [Lab8.java](Week11/src/main/java/homework/Lab8.java)<br />
+9. Week 12 - [Lab 9](Week12/src/main/java/homework/Lab9.java)<br />
+   Points & UML<br />
+   [Lab9.java](Week12/src/main/java/homework/Lab9.java)<br />
+   [MyPoint.java](Week12/src/main/java/homework/MyPoint.java)<br />
+   [MyPoint_UML.pdf](Week12/src/main/java/homework/MyPoint_UML.pdf)<br />
+10. Week 14 - [Lab 10](Week14/src/main/java/homework/Lab10.java)<br />
+    Command Line Arguments<br />
+    [Lab10.java](Week14/src/main/java/homework/Lab10.java)<br />
 
 ### Homework
 1. Week 2 - [Homework 1](Week2/src/main/java/homework/HW1.java)<br />
@@ -59,6 +70,15 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
    Order Class<br />
    [TestOrder.java](Week10/src/main/java/homework/TestOrder.java)<br />
    [Order.java](Week10/src/main/java/homework/Order.java)<br />
+8. Week 11 - [Homework 8](Week11/src/main/java/homework/HW8.java)<br />
+   Array Addition<br />
+   [HW8.java](Week11/src/main/java/homework/HW8.java)<br />
+9. Week 12 - [Homework 9](Week12/src/main/java/homework/HW9.java)<br />
+   Working Hours<br />
+   [HW9.java](Week12/src/main/java/homework/HW9.java)<br />
+10. Week 14 - [Homework 10](Week14/src/main/java/homework/HW10.java)<br />
+    Reading & Writing Files<br />
+    [HW10.java](Week14/src/main/java/homework/HW10.java)<br />
 
 ### Tests
 1. Week 5 - [Test 1](Week5/src/main/java/test/Test1.java)<br />
@@ -66,7 +86,12 @@ Welcome to the repository for CSCI-1301 Programming Principles I! This course fo
    [Test1.java](Week5/src/main/java/test/Test1.java)<br />
 2. Week 8 - [Test 2](Week8/src/main/java/test/Test2.java)<br />
    Sum of Cubes<br />
-   [Test2.java](Week8/src/main/java/test/Test2.java)
+   [Test2.java](Week8/src/main/java/test/Test2.java)<br />
+3. Week 13 - [Test 3](Week13/src/main/java/test/PartA.java)<br />
+   Lists & Laptop Lists<br />
+   [PartA.java](Week13/src/main/java/test/PartA.java)<br />
+   [Laptop.java](Week13/src/main/java/test/Laptop.java)<br />
+   [PartC.java](Week13/src/main/java/test/PartC.java)<br />
 
 ## Resources
 - [Course Text Website](https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/)
@@ -81,5 +106,4 @@ If you find any improvements or alternative solutions for the completed assignme
 This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the content as needed.
 
 ## Disclaimer
-
 While this repository is licensed under the [MIT License](LICENSE), it is crucial to note that submitting this code without modification is considered dishonest and may lead to academic penalties. This repository is intended solely for reference purposes. I explicitly disclaim any responsibility for any misuse or dishonest use of the code contained herein.
